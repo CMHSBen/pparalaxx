@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+
+body {
+    background-color: aqua;
+    text-align: center;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 25px;
+}
+
+.parallax1 {
+  background-image: url("giraff1.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+	
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax2 {
+  background-image: url("giraff2.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+	
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax3 {
+  background-image: url("giraff3.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+	
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax4 {
+  background-image: url("pexels-africa-vacation-safaris-3529692.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+	
+  background-repeat: no-repeat;
+  background-size: cover;
+}
